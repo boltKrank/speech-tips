@@ -1,6 +1,5 @@
 ---
-"Why speeches aren't funny if you try to make them funny"           (_date: 2025-05-06_)
-
+# "Why speeches aren't funny if you try to make them funny"           (_date: 2025-05-06_)
 ------
 
 If the goal when writing a speech is to make it funny it will always fail.
@@ -13,7 +12,7 @@ Also, if you have to make it obvious it's funny - that means it's not. Things sh
 
 Finally, laughter is a sign of trust - as it shows you're letting down your guard and are being defenseless. People will laugh much more if they feel safe, so start by building trust and integrity before thinking about trying to control the crowd.
 
-**How to do this ?**
+## **How to do this ?**
 
 1. Start with a good speech ( This isn't supposed to be funny, it's supposed to be informative )
 2. Make sure you understand everything that is being relayed, and make sure it's in the language you would use if you were trying to teach someone (somewhere between the way you would talk to your friend and the way you would talk to a judge at court - the best example would be trying to tell someone about the thing you love the most, but they have zero experience around it, but you love it so much you want to make sure they understand without sounding pushy, patronising or apathetic)
