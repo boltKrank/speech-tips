@@ -1,5 +1,5 @@
 ---
-title: "Why speeches aren't funny if you try to make them funny"
+"Why speeches aren't funny if you try to make them funny"
 date: 2025-05-06
 ------
 
