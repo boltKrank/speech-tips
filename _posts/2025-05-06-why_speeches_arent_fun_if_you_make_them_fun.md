@@ -1,6 +1,6 @@
 ---
-"Why speeches aren't funny if you try to make them funny"
-date: 2025-05-06
+"Why speeches aren't funny if you try to make them funny"           (_date: 2025-05-06_)
+
 ------
 
 If the goal when writing a speech is to make it funny it will always fail.
